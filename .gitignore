@@ -1,0 +1,13 @@
+# Build & editor files
+*.pyc
+*~
+.idea
+
+# virtualenv
+bin
+lib
+include
+
+# OSX
+.DS_Store
+.Python
